@@ -37,7 +37,7 @@ Following is a demonstration of the system:
 You can try it out yourself by cloning the repo and following the instructions below.
 
 ```bash
-git clone www.github.com/umarfchy/nextjs-express-redis-microservice-architecture
+git clone https://github.com/aminurbd932/nextjs-express-redis-microservice-architecture.git
 cd nextjs-express-redis-microservice-architecture
 docker compose up
 ```
